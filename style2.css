@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.banniere{
+    background-image:url("image/imageapropos.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    padding-left: 100px;
+}
+.logo{
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+
+}
+nav{
+    float: right;
+}
+.img-100{
+   /* position: relative;
+    width: 50px;
+    left: 50%;
+    right: 50%;
+   */
+}
+
+button{
+    all:unset;
+    background-color:white;
+    font-size: 40px;
+    text-align:right;
+    padding:5px 10px;
+    border-radius: 9px;
+    margin: 10px;
+}
+   .objectif{
+    
+    padding: 50px;
+    background-color: #f3eded;
+   } 
+   .nous{
+    padding: 100;
+   }
+   .mots{
+    padding: 100px;
+    position: relative;
+    text-align: center;
+
+   }
+   .devise{
+    padding: 100px;
+    position: relative;
+    font-size: 20px;
+   }
+   .boite{
+    text-align: center;
+    background-color:antiquewhite;
+   }
+   .boite>*{
+    margin: 1rem;
+   }
+   .formulaire>*{
+    margin: 1rem;
+   }
+   input{
+    width: 70%;
+    padding: 1rem;
+   }
+   textarea{
+    width: 70%;
+   }

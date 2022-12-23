@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: white;
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: #283891;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.logo{
+    color: #283891;
+    font-size: 30px;
+    font-weight: 800;
+}
+nav{
+    float: right;
+
+}
+button{
+    all:unset;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+    padding:5px 10px;
+    border-radius: 9px;
+    margin: 10px;
+color: #283891;
+}
+.introduction{
+    background: #283891;
+    text-align: center;
+    color: white;
+    padding: 100px;
+   
+}
+.developement{
+    padding: 20px;
+  
+
+}
+.formation-text{
+    margin-left: 57px;
+
+}
+.developpement-text{
+    padding-left: 57px;
+}
+.reseau{
+    
+    text-align: center;
+    padding: 15px;
+  
+  
+}
+.img-100{
+    width: 100%;
+}
+.formation{
+ 
+    
+    font-size: 28px;
+}
+.develloppement{
+    
+    
+    font-size: 28px;
+}
